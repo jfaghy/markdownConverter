@@ -23,8 +23,7 @@
     </div>
 </div>
 
-<button class="btn btn-primary" @onclick="ShowMarkdown">JDownload</button>
-<button class="btn btn-primary" @onclick="ShowMarkdown2">GDownload</button>
+<button class="btn btn-primary" @onclick="ShowMarkdown">Download</button>
 
 
 @code {
@@ -33,12 +32,6 @@
     private string lastMarkdownText;
 
     private async Task ShowMarkdown()
-    {
-        string renderHtml = RenderHtml();
-        await Http.PostAsJsonAsync("download123", new StringContent(renderHtml));
-    }
-
-    private async Task ShowMarkdown2()
     {
         string renderHtml = RenderHtml();
         await JsRuntime.InvokeVoidAsync("triggerFilePutDownload", Http.BaseAddress + "download", null, new { html = renderHtml});
