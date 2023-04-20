@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\markdown2.Client.props" />
+</Project>
