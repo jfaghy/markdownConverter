@@ -20,8 +20,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #text-container {
-    height: 500px;
-    width: 400px;
+    height: 100vh;
+    width: 100vw;
     column-count: 2;
     column-gap: 20px;
 }
