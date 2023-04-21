@@ -12,13 +12,22 @@
 
 <div style="display: flex; flex-direction: row;">
     <div style="margin-right: 20px; width: 50%;">
-        <label for="markdownInput">Markdown Input:</label>
-        <textarea id="markdownInput" @bind="@MarkdownText" @oninput="UpdateOutput" style="width: 100%; min-height: 400px; resize: vertical;" rows="10"></textarea>
+        <label for="columnOneInput">Column1:</label>
+        <textarea id="columnOneInput" @bind="@Column1Text" @oninput="UpdateColumn1" style="width: 100%; min-height: 400px; resize: vertical;" rows="10"></textarea>
+    </div>
+    <div style="margin-right: 20px; width: 50%;">
+        <label for="columnTwoInput">Column2:</label>
+        <textarea id="columnTwoInput" @bind="@Column2Text" @oninput="UpdateColumn2" style="width: 100%; min-height: 400px; resize: vertical;" rows="10"></textarea>
     </div>
     <div style="width: 50%;">
         <label>Preview:</label>
         <div>
-            <iframe id="previewFrame" srcdoc="@RenderHtml()" style="border: solid #26b050; width: 100%; height: 400px;"></iframe>
+            <iframe id="previewFrame1" srcdoc="@RenderColumn1()" style="width: 100%; height: 800px;"></iframe>
+        </div>
+    </div>
+    <div style="width: 50%;">
+        <div>
+            <iframe id="previewFrame2" srcdoc="@RenderColumn2()" style="width: 100%; height: 800px;"></iframe>
         </div>
     </div>
 </div>
@@ -27,26 +36,42 @@
 
 
 @code {
-    private string? MarkdownText = "";
+    private string? Column1Text = "";
+    private string? Column2Text = "";
     private Timer previewTimer;
     private string lastMarkdownText;
 
     private async Task ShowMarkdown()
     {
-        string renderHtml = RenderHtml();
-        await JsRuntime.InvokeVoidAsync("triggerFilePutDownload", Http.BaseAddress + "download", null, new { html = renderHtml});
+        string column1 = RenderColumn1();
+        string column2 = RenderColumn2();
+        await JsRuntime.InvokeVoidAsync("triggerFilePutDownload", Http.BaseAddress + "download", null, new { Column1 = column1, Column2 = column2 });
     }
 
-    private string RenderHtml()
+    private string RenderColumn1()
     {
-        string html = Markdown.ToHtml(MarkdownText);
+        string html = Markdown.ToHtml(Column1Text);
+        return html;
         return $"<html><head><style>* {{ font-family: sans-serif; }}</style></head><body>{html}</body></html>";
     }
 
-
-    private async Task UpdateOutput(ChangeEventArgs args)
+    private string RenderColumn2()
     {
-        MarkdownText = args.Value.ToString();
+        string html = Markdown.ToHtml(Column2Text);
+        return html;
+        return $"<html><head><style>* {{ font-family: sans-serif; }}</style></head><body>{html}</body></html>";
+    }
+
+    private async Task UpdateColumn1(ChangeEventArgs args)
+    {
+        Column1Text = args.Value.ToString();
+        await Task.Delay(1);
+        StateHasChanged();
+    }
+
+    private async Task UpdateColumn2(ChangeEventArgs args)
+    {
+        Column2Text = args.Value.ToString();
         await Task.Delay(1);
         StateHasChanged();
     }

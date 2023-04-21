@@ -203,15 +203,15 @@
       "mscorlib.dll": "sha256-3H8zsATEgIcRSRoZhWYtgfKT5VniJvhcYxLruf8koAY=",
       "netstandard.dll": "sha256-bbx+pnJNmXZyPqAgESJnWLJsbfuAl0UflLCdl9slPYE=",
       "System.Private.CoreLib.dll": "sha256-pUYF+nr8SzfBMCLc3FM2i\/YivXJlzztdLin+aUsoqP0=",
-      "markdown2.Shared.dll": "sha256-lhKt1ZMzPP+Pxs\/CWqC2a38tqZF4rUGtMaTXccPcPTg=",
-      "markdown2.Client.dll": "sha256-NgfsK0tZddaJlSa689rFymbYDPkKfLCLHSd+khmbc\/E="
+      "markdown2.Shared.dll": "sha256-B27H+4az26aK5\/rMkkS+cvLGhCODVnRDVmz5BQwGmsA=",
+      "markdown2.Client.dll": "sha256-aCRj4rniuV4GWUurFSqvmP0yj\/2p\/OSDN8m9XH5A8J0="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
-      "markdown2.Shared.pdb": "sha256-L+X4wKNqSDZ\/YwJXdWAznFZCs3PakNZazrwGf2HIRCs=",
-      "markdown2.Client.pdb": "sha256-Snb0RKoE8zo8kgxpuJ0lt9TSZCxvXgh6llR6Jrosspg="
+      "markdown2.Shared.pdb": "sha256-GAtImBxTQaTMKxTkylI8\/H2s9okuXJIDphQLtXk5LyM=",
+      "markdown2.Client.pdb": "sha256-rYqicGQ7uNZ5IdOTWQmTn15K0aFGG6HS+Nz7X7SF2Lw="
     },
     "runtime": {
       "dotnet.7.0.4.mgcl6vzjfg.js": "sha256-3l+4ZYRWpGMbBjNqeIqO9T\/65euaOzIvRlVX2SySvFQ=",
