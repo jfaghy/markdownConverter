@@ -10,6 +10,7 @@
         "dependencies": {
           "DinkToPdf": "1.0.8",
           "Markdig": "0.31.0",
+          "NReco.PdfGenerator": "1.2.1",
           "iTextSharp": "5.5.13.3",
           "itextsharp.xmlworker": "5.5.13.3"
         },
@@ -127,6 +128,14 @@
           "System.Threading.Timer": "4.0.1",
           "System.Xml.ReaderWriter": "4.0.11",
           "System.Xml.XDocument": "4.0.11"
+        }
+      },
+      "NReco.PdfGenerator/1.2.1": {
+        "runtime": {
+          "lib/netstandard2.0/NReco.PdfGenerator.dll": {
+            "assemblyVersion": "1.2.1.0",
+            "fileVersion": "1.2.1.0"
+          }
         }
       },
       "runtime.native.System/4.0.0": {
@@ -792,6 +801,13 @@
       "sha512": "sha512-ypsCvIdCZ4IoYASJHt6tF2fMo7N30NLgV1EbmC+snO490OMl9FvVxmumw14rhReWU3j3g7BYudG6YCrchwHJlA==",
       "path": "netstandard.library/1.6.0",
       "hashPath": "netstandard.library.1.6.0.nupkg.sha512"
+    },
+    "NReco.PdfGenerator/1.2.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-YONMIaSBJO/0FKcXMyO1KZWc83IqfrbBKw5fcRxrwgxzv5r89rh/Z6r7ukuJmx+ra3m6jz6gmaEYXFWV3dKTmg==",
+      "path": "nreco.pdfgenerator/1.2.1",
+      "hashPath": "nreco.pdfgenerator.1.2.1.nupkg.sha512"
     },
     "runtime.native.System/4.0.0": {
       "type": "package",

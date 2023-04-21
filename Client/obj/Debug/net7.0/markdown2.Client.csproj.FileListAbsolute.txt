@@ -854,3 +854,7 @@ C:\DataGlide\markdown2\Client\bin\Debug\net7.0\itextsharp.xmlworker.dll
 C:\DataGlide\markdown2\Client\obj\Debug\net7.0\build-gz\6V25ksk1.gz
 C:\DataGlide\markdown2\Client\obj\Debug\net7.0\build-gz\aSLGeILt.gz
 C:\DataGlide\markdown2\Client\obj\Debug\net7.0\build-gz\WuZc7vCX.gz
+C:\DataGlide\markdown2\Client\bin\Debug\net7.0\wwwroot\_framework\NReco.PdfGenerator.dll
+C:\DataGlide\markdown2\Client\bin\Debug\net7.0\wwwroot\_framework\NReco.PdfGenerator.dll.gz
+C:\DataGlide\markdown2\Client\bin\Debug\net7.0\NReco.PdfGenerator.dll
+C:\DataGlide\markdown2\Client\obj\Debug\net7.0\build-gz\moeIfEkk.gz

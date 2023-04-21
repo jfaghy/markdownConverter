@@ -57,3 +57,4 @@ C:\DataGlide\markdown2\Server\obj\Debug\net7.0\ref\markdown2.Server.dll
 C:\DataGlide\markdown2\Server\bin\Debug\net7.0\BouncyCastle.Crypto.dll
 C:\DataGlide\markdown2\Server\bin\Debug\net7.0\itextsharp.dll
 C:\DataGlide\markdown2\Server\bin\Debug\net7.0\itextsharp.xmlworker.dll
+C:\DataGlide\markdown2\Server\bin\Debug\net7.0\NReco.PdfGenerator.dll

@@ -8,11 +8,47 @@ h1, h2, h3, h4, h5, h6 {
     color: blueviolet;
 }
 
+.two-columns {
+    column-count: 2;
+    column-gap: 20px;
+    column-fill: auto;
+    height: 1000px;
+}
+
 {
     box-sizing: border-box;
 }
 
-/*.column {
+#text-container {
+    height: 500px;
+    width: 400px;
+    column-count: 2;
+    column-gap: 20px;
+}
+
+#text-container.three-columns {
+    column-count: 3;
+    column-gap: 10px;
+}
+
+/*
+@media screen and (min-width: 768px) {
+    .wrapper {
+        columns: 2;
+        column-gap: 20px;
+        height: 100vh;
+        width: 40vw;
+        background-color: #6a1a21;
+    }
+}
+
+.wrapper p {
+    background-color: #f2f2f2; !* set background color for paragraphs inside columns *!
+    padding: 10px; !* add padding for better readability *!
+    margin: 0; !* remove default margin for paragraphs *!
+}
+
+.column {
     float: left;
     width: 50%;
     padding: 10px;

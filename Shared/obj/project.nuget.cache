@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "zTaL+2915Kxz3CyxqcRUcRuDhYTX0f16a7j5aK1XlZEC3CYk27TL1154gNGFXtNTfqKMBoBhh17YRByj/zHeKg==",
+  "dgSpecHash": "hFvalmuRtnQUfpPY08PT+4HVlySM1k3c36w7yQak3uFeHTQbrPjalp4sfRFVOhNyyrSYfMw59XF1yTKmwKYpSQ==",
   "success": true,
   "projectFilePath": "C:\\DataGlide\\markdown2\\Shared\\markdown2.Shared.csproj",
   "expectedPackageFiles": [
@@ -13,6 +13,7 @@
     "C:\\Users\\jfagh\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\jfagh\\.nuget\\packages\\microsoft.win32.primitives\\4.0.1\\microsoft.win32.primitives.4.0.1.nupkg.sha512",
     "C:\\Users\\jfagh\\.nuget\\packages\\netstandard.library\\1.6.0\\netstandard.library.1.6.0.nupkg.sha512",
+    "C:\\Users\\jfagh\\.nuget\\packages\\nreco.pdfgenerator\\1.2.1\\nreco.pdfgenerator.1.2.1.nupkg.sha512",
     "C:\\Users\\jfagh\\.nuget\\packages\\runtime.native.system\\4.0.0\\runtime.native.system.4.0.0.nupkg.sha512",
     "C:\\Users\\jfagh\\.nuget\\packages\\runtime.native.system.io.compression\\4.1.0\\runtime.native.system.io.compression.4.1.0.nupkg.sha512",
     "C:\\Users\\jfagh\\.nuget\\packages\\runtime.native.system.net.http\\4.0.1\\runtime.native.system.net.http.4.0.1.nupkg.sha512",

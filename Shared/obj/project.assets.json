@@ -150,6 +150,19 @@
           "System.Xml.XDocument": "4.0.11"
         }
       },
+      "NReco.PdfGenerator/1.2.1": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/NReco.PdfGenerator.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/NReco.PdfGenerator.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "runtime.native.System/4.0.0": {
         "type": "package",
         "dependencies": {
@@ -1404,6 +1417,21 @@
         "dotnet_library_license.txt",
         "netstandard.library.1.6.0.nupkg.sha512",
         "netstandard.library.nuspec"
+      ]
+    },
+    "NReco.PdfGenerator/1.2.1": {
+      "sha512": "YONMIaSBJO/0FKcXMyO1KZWc83IqfrbBKw5fcRxrwgxzv5r89rh/Z6r7ukuJmx+ra3m6jz6gmaEYXFWV3dKTmg==",
+      "type": "package",
+      "path": "nreco.pdfgenerator/1.2.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net45/NReco.PdfGenerator.dll",
+        "lib/net45/NReco.PdfGenerator.xml",
+        "lib/netstandard2.0/NReco.PdfGenerator.dll",
+        "lib/netstandard2.0/NReco.PdfGenerator.xml",
+        "nreco.pdfgenerator.1.2.1.nupkg.sha512",
+        "nreco.pdfgenerator.nuspec"
       ]
     },
     "runtime.native.System/4.0.0": {
@@ -4428,6 +4456,7 @@
     "net7.0": [
       "DinkToPdf >= 1.0.8",
       "Markdig >= 0.31.0",
+      "NReco.PdfGenerator >= 1.2.1",
       "iTextSharp >= 5.5.13.3",
       "itextsharp.xmlworker >= 5.5.13.3"
     ]
@@ -4479,6 +4508,10 @@
           "Markdig": {
             "target": "Package",
             "version": "[0.31.0, )"
+          },
+          "NReco.PdfGenerator": {
+            "target": "Package",
+            "version": "[1.2.1, )"
           },
           "iTextSharp": {
             "target": "Package",

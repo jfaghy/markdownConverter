@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "4EcCrvPMhEaKAtoI0f+lY9OJ+qfDggdys15wNvIWSJU=",
+  "Hash": "wKMj3I+7phYRFHrELbZOq7aYwYBiHVwkrdwq5Tp8XVE=",
   "Source": "markdown2.Server",
   "BasePath": "_content/markdown2.Server",
   "Mode": "Default",
@@ -826,6 +826,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\jfagh\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\7.0.4\\runtimes\\browser-wasm\\lib\\net7.0\\netstandard.dll"
+    },
+    {
+      "Identity": "C:\\DataGlide\\markdown2\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\NReco.PdfGenerator.dll",
+      "SourceId": "markdown2.Client",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\DataGlide\\markdown2\\Client\\bin\\Debug\\net7.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/NReco.PdfGenerator.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\jfagh\\.nuget\\packages\\nreco.pdfgenerator\\1.2.1\\lib\\netstandard2.0\\NReco.PdfGenerator.dll"
     },
     {
       "Identity": "C:\\DataGlide\\markdown2\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\System.AppContext.dll",
@@ -5688,6 +5705,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\DataGlide\\markdown2\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\System.ComponentModel.DataAnnotations.dll"
+    },
+    {
+      "Identity": "C:\\DataGlide\\markdown2\\Client\\obj\\Debug\\net7.0\\build-gz\\moeIfEkk.gz",
+      "SourceId": "markdown2.Client",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\DataGlide\\markdown2\\Client\\bin\\Debug\\net7.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/NReco.PdfGenerator.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\DataGlide\\markdown2\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\NReco.PdfGenerator.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\DataGlide\\markdown2\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\NReco.PdfGenerator.dll"
     },
     {
       "Identity": "C:\\DataGlide\\markdown2\\Client\\obj\\Debug\\net7.0\\build-gz\\mxm1uHqP.gz",

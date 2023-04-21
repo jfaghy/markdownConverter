@@ -32,7 +32,11 @@
     </div>
 </div>
 
-<button class="btn btn-primary" @onclick="ShowMarkdown">Download</button>
+<button class="btn btn-primary" @onclick="Dink">Download Dink</button>
+<button class="btn btn-primary" @onclick="NReco">Download NReco</button>
+<button class="btn btn-primary" @onclick="FakeHappy">Download FakeHappy</button>
+<button class="btn btn-primary" @onclick="DinkJS">Download JS</button>
+
 
 
 @code {
@@ -41,25 +45,44 @@
     private Timer previewTimer;
     private string lastMarkdownText;
 
-    private async Task ShowMarkdown()
+    private async Task Dink()
     {
         string column1 = RenderColumn1();
         string column2 = RenderColumn2();
-        await JsRuntime.InvokeVoidAsync("triggerFilePutDownload", Http.BaseAddress + "download", null, new { Column1 = column1, Column2 = column2 });
+        await JsRuntime.InvokeVoidAsync("triggerFilePutDownload", Http.BaseAddress + "downloaddink", null, new { Column1 = column1, Column2 = column2 });
+    }
+
+    private async Task DinkJS()
+    {
+        string column1 = RenderColumn1();
+        string column2 = RenderColumn2();
+        await JsRuntime.InvokeVoidAsync("triggerFilePutDownload", Http.BaseAddress + "downloaddinkjs", null, new { Column1 = column1, Column2 = column2 });
+    }
+
+    private async Task NReco()
+    {
+        string column1 = RenderColumn1();
+        string column2 = RenderColumn2();
+        await JsRuntime.InvokeVoidAsync("triggerFilePutDownload", Http.BaseAddress + "downloadnreco", null, new { Column1 = column1, Column2 = column2 });
+    }
+
+    private async Task FakeHappy()
+    {
+        string column1 = RenderColumn1();
+        string column2 = RenderColumn2();
+        await JsRuntime.InvokeVoidAsync("triggerFilePutDownload", Http.BaseAddress + "downloadfakehappy", null, new { Column1 = column1, Column2 = column2 });
     }
 
     private string RenderColumn1()
     {
         string html = Markdown.ToHtml(Column1Text);
         return html;
-        return $"<html><head><style>* {{ font-family: sans-serif; }}</style></head><body>{html}</body></html>";
     }
 
     private string RenderColumn2()
     {
         string html = Markdown.ToHtml(Column2Text);
         return html;
-        return $"<html><head><style>* {{ font-family: sans-serif; }}</style></head><body>{html}</body></html>";
     }
 
     private async Task UpdateColumn1(ChangeEventArgs args)

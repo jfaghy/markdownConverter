@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "5zC2FMdfqfJlUi9FTgdb7QDTs9GEWhAlWXP8s2I3fn0sgmuvp9nPi8K72b7yhXrWEaeA3iIbIafcw/uM+5v9nQ==",
+  "dgSpecHash": "mqrRvBzS8nBQxV/JYLBZYu1M6YEnJZjDGAv+5IzGSxDaYy9qK6Yw64dUchiaPbVPEYnXDiDGepQm1r4w+Dt5kw==",
   "success": true,
   "projectFilePath": "C:\\DataGlide\\markdown2\\Client\\markdown2.Client.csproj",
   "expectedPackageFiles": [
@@ -37,6 +37,7 @@
     "C:\\Users\\jfagh\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\jfagh\\.nuget\\packages\\microsoft.win32.primitives\\4.0.1\\microsoft.win32.primitives.4.0.1.nupkg.sha512",
     "C:\\Users\\jfagh\\.nuget\\packages\\netstandard.library\\1.6.0\\netstandard.library.1.6.0.nupkg.sha512",
+    "C:\\Users\\jfagh\\.nuget\\packages\\nreco.pdfgenerator\\1.2.1\\nreco.pdfgenerator.1.2.1.nupkg.sha512",
     "C:\\Users\\jfagh\\.nuget\\packages\\runtime.any.system.collections\\4.3.0\\runtime.any.system.collections.4.3.0.nupkg.sha512",
     "C:\\Users\\jfagh\\.nuget\\packages\\runtime.any.system.diagnostics.tools\\4.3.0\\runtime.any.system.diagnostics.tools.4.3.0.nupkg.sha512",
     "C:\\Users\\jfagh\\.nuget\\packages\\runtime.any.system.diagnostics.tracing\\4.3.0\\runtime.any.system.diagnostics.tracing.4.3.0.nupkg.sha512",
