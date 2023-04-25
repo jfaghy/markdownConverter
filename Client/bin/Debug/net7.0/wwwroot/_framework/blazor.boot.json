@@ -9,6 +9,8 @@
     "assembly": {
       "BouncyCastle.Crypto.dll": "sha256-MzkDx9IqJwmORfxkt3omSqIgYFz70+MpwgDX5LQsiBw=",
       "DinkToPdf.dll": "sha256-9EHh4IX+\/pHhYIjn5PyjVN6YglIAfO\/gI5toQ6\/l6fI=",
+      "DocumentFormat.OpenXml.dll": "sha256-AmqkiOZl4VrrJAP+uXGQKBWIeBnp2nBvIO1qkds+GrY=",
+      "DocumentFormat.OpenXml.Framework.dll": "sha256-+uzEhO1N8lSYk1zsHcjoYkSTA1QpKOvlmfKVTG79EsI=",
       "itextsharp.dll": "sha256-zloQfa1DpBAe6z\/oT\/bRc6bVXzTwv\/cltTY2bxDplBA=",
       "itextsharp.xmlworker.dll": "sha256-2jdN8bF62pZUYAmBrH+e\/xNqMU+R2ZuHs75+UVmVFtg=",
       "Markdig.dll": "sha256-iKKz5I0C1crIJpaE817LsfaIGinS7O1szh3CsTyQ8Bc=",
@@ -34,7 +36,9 @@
       "Microsoft.Extensions.Primitives.dll": "sha256-q4ruoDSCjV\/QJY9ZkzV6uxvEvZUVrDbyUjU3SSh5SlE=",
       "Microsoft.JSInterop.dll": "sha256-mVa0kFJEOfNCeM6spj6DE0H37nHbk++P5R+f6Hi4UQ8=",
       "Microsoft.JSInterop.WebAssembly.dll": "sha256-NT4DzRkrAn8\/DnLS4W87pBIa3J0w29RPFsnSWcmL9Tc=",
+      "Newtonsoft.Json.dll": "sha256-IsZJ91\/OW+fHzNqIgEc7Y072ns8z9dGritiSyvR9Wgc=",
       "NReco.PdfGenerator.dll": "sha256-K2ymHJf+Y3+o9wiKOYTSgZTqmZn1f77\/lr9uvwHgfvQ=",
+      "System.IO.Packaging.dll": "sha256-O+oadu\/IUo1A1KVeJYV6TEQyNT0J\/FwDsedjJDZ6Lwk=",
       "System.IO.Pipelines.dll": "sha256-P\/MqD0fCBd5bgTM16JC1QC\/Zz7s+CwViyzmDFkBG4\/c=",
       "Microsoft.CSharp.dll": "sha256-aAP8Z\/Kd1yg8nt7wXedk+i2Oy2hi1b2lG2er86epgZY=",
       "Microsoft.VisualBasic.Core.dll": "sha256-xXmnvheCZXUbf1gDmsByeCpU1oV4BSXUReiP5rFfkhE=",
@@ -204,15 +208,15 @@
       "mscorlib.dll": "sha256-3H8zsATEgIcRSRoZhWYtgfKT5VniJvhcYxLruf8koAY=",
       "netstandard.dll": "sha256-bbx+pnJNmXZyPqAgESJnWLJsbfuAl0UflLCdl9slPYE=",
       "System.Private.CoreLib.dll": "sha256-pUYF+nr8SzfBMCLc3FM2i\/YivXJlzztdLin+aUsoqP0=",
-      "markdown2.Shared.dll": "sha256-ZrGubOMEVegQnXnS9jiOnzyhsB7A6fdRV7hZ181iOAM=",
-      "markdown2.Client.dll": "sha256-ljzFIUl0b3FFg+hGFKWwYOiOOMNt2ft85VoNmQ+42Rs="
+      "markdown2.Shared.dll": "sha256-F8USLN2QcPkZf3FWPiii60YmeyE3dcS+sYZNRr4tQn8=",
+      "markdown2.Client.dll": "sha256-8tCFO4eRprrm9GK0qDCBrjyNHuaVpFhIn2v2mcu6w00="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
-      "markdown2.Shared.pdb": "sha256-5aTtP97aMOympdmo84VjCBcU8FkQAMWSx706gnmjOx4=",
-      "markdown2.Client.pdb": "sha256-MBxHaqPL1ig44WzoWLHunaRD11m1pTuXQEWDlE+PBFE="
+      "markdown2.Shared.pdb": "sha256-CB7u16vDUa3H9fv2QoDJavjz87rmjff7hFfo88Xh9II=",
+      "markdown2.Client.pdb": "sha256-14wtlcVgCzPQvriC4zeGhWFXfRoXICORnhS\/lTNCYR0="
     },
     "runtime": {
       "dotnet.7.0.4.mgcl6vzjfg.js": "sha256-3l+4ZYRWpGMbBjNqeIqO9T\/65euaOzIvRlVX2SySvFQ=",

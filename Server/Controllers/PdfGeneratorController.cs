@@ -205,5 +205,3 @@ public class PdfGeneratorController : ControllerBase
 		""";
 }
 
-public record DownloadData(string Column1, string Column2);
-

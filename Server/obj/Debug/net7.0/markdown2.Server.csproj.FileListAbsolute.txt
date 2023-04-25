@@ -15,7 +15,12 @@ C:\DataGlide\markdown2\Server\bin\Debug\net7.0\markdown2.Server.deps.json
 C:\DataGlide\markdown2\Server\bin\Debug\net7.0\markdown2.Server.runtimeconfig.json
 C:\DataGlide\markdown2\Server\bin\Debug\net7.0\markdown2.Server.dll
 C:\DataGlide\markdown2\Server\bin\Debug\net7.0\markdown2.Server.pdb
+C:\DataGlide\markdown2\Server\bin\Debug\net7.0\BouncyCastle.Crypto.dll
 C:\DataGlide\markdown2\Server\bin\Debug\net7.0\DinkToPdf.dll
+C:\DataGlide\markdown2\Server\bin\Debug\net7.0\DocumentFormat.OpenXml.dll
+C:\DataGlide\markdown2\Server\bin\Debug\net7.0\DocumentFormat.OpenXml.Framework.dll
+C:\DataGlide\markdown2\Server\bin\Debug\net7.0\itextsharp.dll
+C:\DataGlide\markdown2\Server\bin\Debug\net7.0\itextsharp.xmlworker.dll
 C:\DataGlide\markdown2\Server\bin\Debug\net7.0\Markdig.dll
 C:\DataGlide\markdown2\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Authorization.dll
 C:\DataGlide\markdown2\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.dll
@@ -28,6 +33,9 @@ C:\DataGlide\markdown2\Server\bin\Debug\net7.0\Microsoft.Extensions.Configuratio
 C:\DataGlide\markdown2\Server\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
 C:\DataGlide\markdown2\Server\bin\Debug\net7.0\Microsoft.JSInterop.dll
 C:\DataGlide\markdown2\Server\bin\Debug\net7.0\Microsoft.JSInterop.WebAssembly.dll
+C:\DataGlide\markdown2\Server\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\DataGlide\markdown2\Server\bin\Debug\net7.0\NReco.PdfGenerator.dll
+C:\DataGlide\markdown2\Server\bin\Debug\net7.0\System.IO.Packaging.dll
 C:\DataGlide\markdown2\Server\bin\Debug\net7.0\markdown2.Client.dll
 C:\DataGlide\markdown2\Server\bin\Debug\net7.0\markdown2.Shared.dll
 C:\DataGlide\markdown2\Server\bin\Debug\net7.0\markdown2.Client.pdb
@@ -54,7 +62,3 @@ C:\DataGlide\markdown2\Server\obj\Debug\net7.0\refint\markdown2.Server.dll
 C:\DataGlide\markdown2\Server\obj\Debug\net7.0\markdown2.Server.pdb
 C:\DataGlide\markdown2\Server\obj\Debug\net7.0\markdown2.Server.genruntimeconfig.cache
 C:\DataGlide\markdown2\Server\obj\Debug\net7.0\ref\markdown2.Server.dll
-C:\DataGlide\markdown2\Server\bin\Debug\net7.0\BouncyCastle.Crypto.dll
-C:\DataGlide\markdown2\Server\bin\Debug\net7.0\itextsharp.dll
-C:\DataGlide\markdown2\Server\bin\Debug\net7.0\itextsharp.xmlworker.dll
-C:\DataGlide\markdown2\Server\bin\Debug\net7.0\NReco.PdfGenerator.dll

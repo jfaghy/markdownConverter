@@ -1,6 +1,9 @@
 C:\DataGlide\markdown2\Client\bin\Debug\net7.0\wwwroot\_framework\blazor.boot.json
 C:\DataGlide\markdown2\Client\bin\Debug\net7.0\wwwroot\_framework\blazor.webassembly.js
+C:\DataGlide\markdown2\Client\bin\Debug\net7.0\wwwroot\_framework\BouncyCastle.Crypto.dll
 C:\DataGlide\markdown2\Client\bin\Debug\net7.0\wwwroot\_framework\DinkToPdf.dll
+C:\DataGlide\markdown2\Client\bin\Debug\net7.0\wwwroot\_framework\DocumentFormat.OpenXml.dll
+C:\DataGlide\markdown2\Client\bin\Debug\net7.0\wwwroot\_framework\DocumentFormat.OpenXml.Framework.dll
 C:\DataGlide\markdown2\Client\bin\Debug\net7.0\wwwroot\_framework\dotnet.7.0.4.mgcl6vzjfg.js
 C:\DataGlide\markdown2\Client\bin\Debug\net7.0\wwwroot\_framework\dotnet.timezones.blat
 C:\DataGlide\markdown2\Client\bin\Debug\net7.0\wwwroot\_framework\dotnet.wasm
@@ -8,6 +11,8 @@ C:\DataGlide\markdown2\Client\bin\Debug\net7.0\wwwroot\_framework\icudt_CJK.dat
 C:\DataGlide\markdown2\Client\bin\Debug\net7.0\wwwroot\_framework\icudt_EFIGS.dat
 C:\DataGlide\markdown2\Client\bin\Debug\net7.0\wwwroot\_framework\icudt_no_CJK.dat
 C:\DataGlide\markdown2\Client\bin\Debug\net7.0\wwwroot\_framework\icudt.dat
+C:\DataGlide\markdown2\Client\bin\Debug\net7.0\wwwroot\_framework\itextsharp.dll
+C:\DataGlide\markdown2\Client\bin\Debug\net7.0\wwwroot\_framework\itextsharp.xmlworker.dll
 C:\DataGlide\markdown2\Client\bin\Debug\net7.0\wwwroot\_framework\Markdig.dll
 C:\DataGlide\markdown2\Client\bin\Debug\net7.0\wwwroot\_framework\markdown2.Client.dll
 C:\DataGlide\markdown2\Client\bin\Debug\net7.0\wwwroot\_framework\markdown2.Client.pdb
@@ -42,6 +47,8 @@ C:\DataGlide\markdown2\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Win3
 C:\DataGlide\markdown2\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Win32.Registry.dll
 C:\DataGlide\markdown2\Client\bin\Debug\net7.0\wwwroot\_framework\mscorlib.dll
 C:\DataGlide\markdown2\Client\bin\Debug\net7.0\wwwroot\_framework\netstandard.dll
+C:\DataGlide\markdown2\Client\bin\Debug\net7.0\wwwroot\_framework\Newtonsoft.Json.dll
+C:\DataGlide\markdown2\Client\bin\Debug\net7.0\wwwroot\_framework\NReco.PdfGenerator.dll
 C:\DataGlide\markdown2\Client\bin\Debug\net7.0\wwwroot\_framework\System.AppContext.dll
 C:\DataGlide\markdown2\Client\bin\Debug\net7.0\wwwroot\_framework\System.Buffers.dll
 C:\DataGlide\markdown2\Client\bin\Debug\net7.0\wwwroot\_framework\System.Collections.Concurrent.dll
@@ -92,6 +99,7 @@ C:\DataGlide\markdown2\Client\bin\Debug\net7.0\wwwroot\_framework\System.IO.File
 C:\DataGlide\markdown2\Client\bin\Debug\net7.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll
 C:\DataGlide\markdown2\Client\bin\Debug\net7.0\wwwroot\_framework\System.IO.IsolatedStorage.dll
 C:\DataGlide\markdown2\Client\bin\Debug\net7.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll
+C:\DataGlide\markdown2\Client\bin\Debug\net7.0\wwwroot\_framework\System.IO.Packaging.dll
 C:\DataGlide\markdown2\Client\bin\Debug\net7.0\wwwroot\_framework\System.IO.Pipelines.dll
 C:\DataGlide\markdown2\Client\bin\Debug\net7.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll
 C:\DataGlide\markdown2\Client\bin\Debug\net7.0\wwwroot\_framework\System.IO.Pipes.dll
@@ -222,6 +230,7 @@ C:\DataGlide\markdown2\Client\bin\Debug\net7.0\wwwroot\_framework\System.Net.Ser
 C:\DataGlide\markdown2\Client\bin\Debug\net7.0\wwwroot\_framework\System.Private.DataContractSerialization.dll.gz
 C:\DataGlide\markdown2\Client\bin\Debug\net7.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll.gz
 C:\DataGlide\markdown2\Client\bin\Debug\net7.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll.gz
+C:\DataGlide\markdown2\Client\bin\Debug\net7.0\wwwroot\_framework\Newtonsoft.Json.dll.gz
 C:\DataGlide\markdown2\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll.gz
 C:\DataGlide\markdown2\Client\bin\Debug\net7.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll.gz
 C:\DataGlide\markdown2\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll.gz
@@ -232,6 +241,7 @@ C:\DataGlide\markdown2\Client\bin\Debug\net7.0\wwwroot\_framework\System.Runtime
 C:\DataGlide\markdown2\Client\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll.gz
 C:\DataGlide\markdown2\Client\bin\Debug\net7.0\wwwroot\_framework\System.Data.Common.dll.gz
 C:\DataGlide\markdown2\Client\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Tasks.dll.gz
+C:\DataGlide\markdown2\Client\bin\Debug\net7.0\wwwroot\_framework\BouncyCastle.Crypto.dll.gz
 C:\DataGlide\markdown2\Client\bin\Debug\net7.0\wwwroot\_framework\System.Dynamic.Runtime.dll.gz
 C:\DataGlide\markdown2\Client\bin\Debug\net7.0\wwwroot\_framework\System.Resources.Writer.dll.gz
 C:\DataGlide\markdown2\Client\bin\Debug\net7.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll.gz
@@ -250,6 +260,7 @@ C:\DataGlide\markdown2\Client\bin\Debug\net7.0\wwwroot\_framework\System.Linq.Pa
 C:\DataGlide\markdown2\Client\bin\Debug\net7.0\wwwroot\_framework\System.Security.AccessControl.dll.gz
 C:\DataGlide\markdown2\Client\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll.gz
 C:\DataGlide\markdown2\Client\bin\Debug\net7.0\wwwroot\_framework\System.Globalization.Calendars.dll.gz
+C:\DataGlide\markdown2\Client\bin\Debug\net7.0\wwwroot\_framework\itextsharp.dll.gz
 C:\DataGlide\markdown2\Client\bin\Debug\net7.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll.gz
 C:\DataGlide\markdown2\Client\bin\Debug\net7.0\wwwroot\_framework\icudt.dat.gz
 C:\DataGlide\markdown2\Client\bin\Debug\net7.0\wwwroot\_framework\markdown2.Shared.dll.gz
@@ -276,6 +287,7 @@ C:\DataGlide\markdown2\Client\bin\Debug\net7.0\wwwroot\_framework\System.Transac
 C:\DataGlide\markdown2\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll.gz
 C:\DataGlide\markdown2\Client\bin\Debug\net7.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll.gz
 C:\DataGlide\markdown2\Client\bin\Debug\net7.0\wwwroot\_framework\icudt_no_CJK.dat.gz
+C:\DataGlide\markdown2\Client\bin\Debug\net7.0\wwwroot\_framework\DocumentFormat.OpenXml.Framework.dll.gz
 C:\DataGlide\markdown2\Client\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.dll.gz
 C:\DataGlide\markdown2\Client\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Overlapped.dll.gz
 C:\DataGlide\markdown2\Client\bin\Debug\net7.0\wwwroot\_framework\markdown2.Client.dll.gz
@@ -288,6 +300,7 @@ C:\DataGlide\markdown2\Client\bin\Debug\net7.0\wwwroot\_framework\System.ValueTu
 C:\DataGlide\markdown2\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Win32.Registry.dll.gz
 C:\DataGlide\markdown2\Client\bin\Debug\net7.0\wwwroot\_framework\System.Numerics.dll.gz
 C:\DataGlide\markdown2\Client\bin\Debug\net7.0\wwwroot\_framework\System.Linq.dll.gz
+C:\DataGlide\markdown2\Client\bin\Debug\net7.0\wwwroot\_framework\DocumentFormat.OpenXml.dll.gz
 C:\DataGlide\markdown2\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll.gz
 C:\DataGlide\markdown2\Client\bin\Debug\net7.0\wwwroot\_framework\System.Drawing.Primitives.dll.gz
 C:\DataGlide\markdown2\Client\bin\Debug\net7.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll.gz
@@ -326,6 +339,7 @@ C:\DataGlide\markdown2\Client\bin\Debug\net7.0\wwwroot\_framework\System.Net.Web
 C:\DataGlide\markdown2\Client\bin\Debug\net7.0\wwwroot\_framework\System.Text.Encodings.Web.dll.gz
 C:\DataGlide\markdown2\Client\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.Extensions.dll.gz
 C:\DataGlide\markdown2\Client\bin\Debug\net7.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll.gz
+C:\DataGlide\markdown2\Client\bin\Debug\net7.0\wwwroot\_framework\NReco.PdfGenerator.dll.gz
 C:\DataGlide\markdown2\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll.gz
 C:\DataGlide\markdown2\Client\bin\Debug\net7.0\wwwroot\_framework\System.Globalization.Extensions.dll.gz
 C:\DataGlide\markdown2\Client\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll.gz
@@ -361,6 +375,7 @@ C:\DataGlide\markdown2\Client\bin\Debug\net7.0\wwwroot\_framework\System.Securit
 C:\DataGlide\markdown2\Client\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Timer.dll.gz
 C:\DataGlide\markdown2\Client\bin\Debug\net7.0\wwwroot\_framework\System.Formats.Asn1.dll.gz
 C:\DataGlide\markdown2\Client\bin\Debug\net7.0\wwwroot\_framework\System.Net.WebProxy.dll.gz
+C:\DataGlide\markdown2\Client\bin\Debug\net7.0\wwwroot\_framework\System.IO.Packaging.dll.gz
 C:\DataGlide\markdown2\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll.gz
 C:\DataGlide\markdown2\Client\bin\Debug\net7.0\wwwroot\_framework\System.Net.Http.Json.dll.gz
 C:\DataGlide\markdown2\Client\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.Emit.dll.gz
@@ -394,6 +409,7 @@ C:\DataGlide\markdown2\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.JSIn
 C:\DataGlide\markdown2\Client\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Thread.dll.gz
 C:\DataGlide\markdown2\Client\bin\Debug\net7.0\wwwroot\_framework\System.Xml.dll.gz
 C:\DataGlide\markdown2\Client\bin\Debug\net7.0\wwwroot\_framework\System.Collections.Concurrent.dll.gz
+C:\DataGlide\markdown2\Client\bin\Debug\net7.0\wwwroot\_framework\itextsharp.xmlworker.dll.gz
 C:\DataGlide\markdown2\Client\bin\Debug\net7.0\wwwroot\_framework\markdown2.Shared.pdb.gz
 C:\DataGlide\markdown2\Client\bin\Debug\net7.0\wwwroot\_framework\System.Linq.Queryable.dll.gz
 C:\DataGlide\markdown2\Client\bin\Debug\net7.0\wwwroot\_framework\blazor.webassembly.js.gz
@@ -412,7 +428,12 @@ C:\DataGlide\markdown2\Client\bin\Debug\net7.0\wwwroot\_framework\System.Securit
 C:\DataGlide\markdown2\Client\bin\Debug\net7.0\markdown2.Client.staticwebassets.runtime.json
 C:\DataGlide\markdown2\Client\bin\Debug\net7.0\markdown2.Client.dll
 C:\DataGlide\markdown2\Client\bin\Debug\net7.0\markdown2.Client.pdb
+C:\DataGlide\markdown2\Client\bin\Debug\net7.0\BouncyCastle.Crypto.dll
 C:\DataGlide\markdown2\Client\bin\Debug\net7.0\DinkToPdf.dll
+C:\DataGlide\markdown2\Client\bin\Debug\net7.0\DocumentFormat.OpenXml.dll
+C:\DataGlide\markdown2\Client\bin\Debug\net7.0\DocumentFormat.OpenXml.Framework.dll
+C:\DataGlide\markdown2\Client\bin\Debug\net7.0\itextsharp.dll
+C:\DataGlide\markdown2\Client\bin\Debug\net7.0\itextsharp.xmlworker.dll
 C:\DataGlide\markdown2\Client\bin\Debug\net7.0\Markdig.dll
 C:\DataGlide\markdown2\Client\bin\Debug\net7.0\Microsoft.AspNetCore.Authorization.dll
 C:\DataGlide\markdown2\Client\bin\Debug\net7.0\Microsoft.AspNetCore.Components.dll
@@ -436,6 +457,9 @@ C:\DataGlide\markdown2\Client\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
 C:\DataGlide\markdown2\Client\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
 C:\DataGlide\markdown2\Client\bin\Debug\net7.0\Microsoft.JSInterop.dll
 C:\DataGlide\markdown2\Client\bin\Debug\net7.0\Microsoft.JSInterop.WebAssembly.dll
+C:\DataGlide\markdown2\Client\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\DataGlide\markdown2\Client\bin\Debug\net7.0\NReco.PdfGenerator.dll
+C:\DataGlide\markdown2\Client\bin\Debug\net7.0\System.IO.Packaging.dll
 C:\DataGlide\markdown2\Client\bin\Debug\net7.0\System.IO.Pipelines.dll
 C:\DataGlide\markdown2\Client\bin\Debug\net7.0\Microsoft.CSharp.dll
 C:\DataGlide\markdown2\Client\bin\Debug\net7.0\Microsoft.VisualBasic.Core.dll
@@ -620,7 +644,12 @@ C:\DataGlide\markdown2\Client\obj\Debug\net7.0\markdown2.Client.AssemblyInfoInpu
 C:\DataGlide\markdown2\Client\obj\Debug\net7.0\markdown2.Client.AssemblyInfo.cs
 C:\DataGlide\markdown2\Client\obj\Debug\net7.0\markdown2.Client.csproj.CoreCompileInputs.cache
 C:\DataGlide\markdown2\Client\obj\Debug\net7.0\markdown2.Client.MvcApplicationPartsAssemblyInfo.cache
+C:\DataGlide\markdown2\Client\obj\Debug\net7.0\build-gz\6V25ksk1.gz
 C:\DataGlide\markdown2\Client\obj\Debug\net7.0\build-gz\TdgUDHO6.gz
+C:\DataGlide\markdown2\Client\obj\Debug\net7.0\build-gz\geLbsuwR.gz
+C:\DataGlide\markdown2\Client\obj\Debug\net7.0\build-gz\EqDI0LHn.gz
+C:\DataGlide\markdown2\Client\obj\Debug\net7.0\build-gz\aSLGeILt.gz
+C:\DataGlide\markdown2\Client\obj\Debug\net7.0\build-gz\WuZc7vCX.gz
 C:\DataGlide\markdown2\Client\obj\Debug\net7.0\build-gz\j8MUeBnb.gz
 C:\DataGlide\markdown2\Client\obj\Debug\net7.0\build-gz\DecaA3h7.gz
 C:\DataGlide\markdown2\Client\obj\Debug\net7.0\build-gz\It0+Mjpo.gz
@@ -644,6 +673,9 @@ C:\DataGlide\markdown2\Client\obj\Debug\net7.0\build-gz\HcHgo5Uq.gz
 C:\DataGlide\markdown2\Client\obj\Debug\net7.0\build-gz\xkQsAGTP.gz
 C:\DataGlide\markdown2\Client\obj\Debug\net7.0\build-gz\UcMfQkRp.gz
 C:\DataGlide\markdown2\Client\obj\Debug\net7.0\build-gz\wBRKYkig.gz
+C:\DataGlide\markdown2\Client\obj\Debug\net7.0\build-gz\4uoYd1ls.gz
+C:\DataGlide\markdown2\Client\obj\Debug\net7.0\build-gz\moeIfEkk.gz
+C:\DataGlide\markdown2\Client\obj\Debug\net7.0\build-gz\S5tly1Pb.gz
 C:\DataGlide\markdown2\Client\obj\Debug\net7.0\build-gz\fENVh+59.gz
 C:\DataGlide\markdown2\Client\obj\Debug\net7.0\build-gz\BYoiL+9V.gz
 C:\DataGlide\markdown2\Client\obj\Debug\net7.0\build-gz\++kUpLO+.gz
@@ -842,19 +874,3 @@ C:\DataGlide\markdown2\Client\obj\Debug\net7.0\markdown2.Client.dll
 C:\DataGlide\markdown2\Client\obj\Debug\net7.0\refint\markdown2.Client.dll
 C:\DataGlide\markdown2\Client\obj\Debug\net7.0\markdown2.Client.pdb
 C:\DataGlide\markdown2\Client\obj\Debug\net7.0\ref\markdown2.Client.dll
-C:\DataGlide\markdown2\Client\bin\Debug\net7.0\wwwroot\_framework\BouncyCastle.Crypto.dll
-C:\DataGlide\markdown2\Client\bin\Debug\net7.0\wwwroot\_framework\itextsharp.dll
-C:\DataGlide\markdown2\Client\bin\Debug\net7.0\wwwroot\_framework\itextsharp.xmlworker.dll
-C:\DataGlide\markdown2\Client\bin\Debug\net7.0\wwwroot\_framework\BouncyCastle.Crypto.dll.gz
-C:\DataGlide\markdown2\Client\bin\Debug\net7.0\wwwroot\_framework\itextsharp.dll.gz
-C:\DataGlide\markdown2\Client\bin\Debug\net7.0\wwwroot\_framework\itextsharp.xmlworker.dll.gz
-C:\DataGlide\markdown2\Client\bin\Debug\net7.0\BouncyCastle.Crypto.dll
-C:\DataGlide\markdown2\Client\bin\Debug\net7.0\itextsharp.dll
-C:\DataGlide\markdown2\Client\bin\Debug\net7.0\itextsharp.xmlworker.dll
-C:\DataGlide\markdown2\Client\obj\Debug\net7.0\build-gz\6V25ksk1.gz
-C:\DataGlide\markdown2\Client\obj\Debug\net7.0\build-gz\aSLGeILt.gz
-C:\DataGlide\markdown2\Client\obj\Debug\net7.0\build-gz\WuZc7vCX.gz
-C:\DataGlide\markdown2\Client\bin\Debug\net7.0\wwwroot\_framework\NReco.PdfGenerator.dll
-C:\DataGlide\markdown2\Client\bin\Debug\net7.0\wwwroot\_framework\NReco.PdfGenerator.dll.gz
-C:\DataGlide\markdown2\Client\bin\Debug\net7.0\NReco.PdfGenerator.dll
-C:\DataGlide\markdown2\Client\obj\Debug\net7.0\build-gz\moeIfEkk.gz

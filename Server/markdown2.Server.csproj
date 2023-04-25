@@ -8,10 +8,12 @@
 
   <ItemGroup>
     <PackageReference Include="DinkToPdf" Version="1.0.8" />
+    <PackageReference Include="DocumentFormat.OpenXml" Version="3.0.0-ci0083" />
     <PackageReference Include="iTextSharp" Version="5.5.13.3" />
     <PackageReference Include="itextsharp.xmlworker" Version="5.5.13.3" />
     <PackageReference Include="Markdig" Version="0.31.0" />
     <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly.Server" Version="7.0.4" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
     <PackageReference Include="NReco.PdfGenerator" Version="1.2.1" />
   </ItemGroup>
   

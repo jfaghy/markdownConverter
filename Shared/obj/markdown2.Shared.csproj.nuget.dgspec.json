@@ -45,6 +45,10 @@
               "target": "Package",
               "version": "[1.0.8, )"
             },
+            "DocumentFormat.OpenXml": {
+              "target": "Package",
+              "version": "[3.0.0-ci0083, )"
+            },
             "Markdig": {
               "target": "Package",
               "version": "[0.31.0, )"
@@ -52,6 +56,10 @@
             "NReco.PdfGenerator": {
               "target": "Package",
               "version": "[1.2.1, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
             },
             "iTextSharp": {
               "target": "Package",

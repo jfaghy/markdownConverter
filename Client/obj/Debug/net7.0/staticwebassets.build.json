@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "JntJK1yX4BLbbhrBYbmc76+63xCjLZM0gp9qOnjT5eA=",
+  "Hash": "S/fQD4xG96JXxaJ583OXwy9BJ7dEeFt+wxdHiwaGh14=",
   "Source": "markdown2.Client",
   "BasePath": "/",
   "Mode": "Root",
@@ -83,6 +83,40 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\jfagh\\.nuget\\packages\\dinktopdf\\1.0.8\\lib\\netstandard1.6\\DinkToPdf.dll"
+    },
+    {
+      "Identity": "C:\\DataGlide\\markdown2\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\DocumentFormat.OpenXml.dll",
+      "SourceId": "markdown2.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\DataGlide\\markdown2\\Client\\bin\\Debug\\net7.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/DocumentFormat.OpenXml.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\jfagh\\.nuget\\packages\\documentformat.openxml\\3.0.0-ci0083\\lib\\net6.0\\DocumentFormat.OpenXml.dll"
+    },
+    {
+      "Identity": "C:\\DataGlide\\markdown2\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\DocumentFormat.OpenXml.Framework.dll",
+      "SourceId": "markdown2.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\DataGlide\\markdown2\\Client\\bin\\Debug\\net7.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/DocumentFormat.OpenXml.Framework.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\jfagh\\.nuget\\packages\\documentformat.openxml.framework\\3.0.0-ci0083\\lib\\net6.0\\DocumentFormat.OpenXml.Framework.dll"
     },
     {
       "Identity": "C:\\DataGlide\\markdown2\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\dotnet.7.0.4.mgcl6vzjfg.js",
@@ -814,6 +848,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\jfagh\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\7.0.4\\runtimes\\browser-wasm\\lib\\net7.0\\netstandard.dll"
+    },
+    {
+      "Identity": "C:\\DataGlide\\markdown2\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Newtonsoft.Json.dll",
+      "SourceId": "markdown2.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\DataGlide\\markdown2\\Client\\bin\\Debug\\net7.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Newtonsoft.Json.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\jfagh\\.nuget\\packages\\newtonsoft.json\\13.0.3\\lib\\net6.0\\Newtonsoft.Json.dll"
     },
     {
       "Identity": "C:\\DataGlide\\markdown2\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\NReco.PdfGenerator.dll",
@@ -1681,6 +1732,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\jfagh\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\7.0.4\\runtimes\\browser-wasm\\lib\\net7.0\\System.IO.MemoryMappedFiles.dll"
+    },
+    {
+      "Identity": "C:\\DataGlide\\markdown2\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\System.IO.Packaging.dll",
+      "SourceId": "markdown2.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\DataGlide\\markdown2\\Client\\bin\\Debug\\net7.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/System.IO.Packaging.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\jfagh\\.nuget\\packages\\system.io.packaging\\7.0.0\\lib\\net7.0\\System.IO.Packaging.dll"
     },
     {
       "Identity": "C:\\DataGlide\\markdown2\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\System.IO.Pipelines.dll",
@@ -3893,6 +3961,23 @@
       "OriginalItemSpec": "C:\\DataGlide\\markdown2\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\System.IO.FileSystem.Primitives.dll"
     },
     {
+      "Identity": "C:\\DataGlide\\markdown2\\Client\\obj\\Debug\\net7.0\\build-gz\\4uoYd1ls.gz",
+      "SourceId": "markdown2.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\DataGlide\\markdown2\\Client\\bin\\Debug\\net7.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Newtonsoft.Json.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\DataGlide\\markdown2\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Newtonsoft.Json.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\DataGlide\\markdown2\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Newtonsoft.Json.dll"
+    },
+    {
       "Identity": "C:\\DataGlide\\markdown2\\Client\\obj\\Debug\\net7.0\\build-gz\\4wso27jv.gz",
       "SourceId": "markdown2.Client",
       "SourceType": "Computed",
@@ -4845,6 +4930,23 @@
       "OriginalItemSpec": "C:\\DataGlide\\markdown2\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\icudt_no_CJK.dat"
     },
     {
+      "Identity": "C:\\DataGlide\\markdown2\\Client\\obj\\Debug\\net7.0\\build-gz\\EqDI0LHn.gz",
+      "SourceId": "markdown2.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\DataGlide\\markdown2\\Client\\bin\\Debug\\net7.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/DocumentFormat.OpenXml.Framework.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\DataGlide\\markdown2\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\DocumentFormat.OpenXml.Framework.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\DataGlide\\markdown2\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\DocumentFormat.OpenXml.Framework.dll"
+    },
+    {
       "Identity": "C:\\DataGlide\\markdown2\\Client\\obj\\Debug\\net7.0\\build-gz\\eTW+AKpb.gz",
       "SourceId": "markdown2.Client",
       "SourceType": "Computed",
@@ -5047,6 +5149,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\DataGlide\\markdown2\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\System.Linq.dll"
+    },
+    {
+      "Identity": "C:\\DataGlide\\markdown2\\Client\\obj\\Debug\\net7.0\\build-gz\\geLbsuwR.gz",
+      "SourceId": "markdown2.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\DataGlide\\markdown2\\Client\\bin\\Debug\\net7.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/DocumentFormat.OpenXml.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\DataGlide\\markdown2\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\DocumentFormat.OpenXml.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\DataGlide\\markdown2\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\DocumentFormat.OpenXml.dll"
     },
     {
       "Identity": "C:\\DataGlide\\markdown2\\Client\\obj\\Debug\\net7.0\\build-gz\\gjU7Do+E.gz",
@@ -6305,6 +6424,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\DataGlide\\markdown2\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\System.Net.WebProxy.dll"
+    },
+    {
+      "Identity": "C:\\DataGlide\\markdown2\\Client\\obj\\Debug\\net7.0\\build-gz\\S5tly1Pb.gz",
+      "SourceId": "markdown2.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\DataGlide\\markdown2\\Client\\bin\\Debug\\net7.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/System.IO.Packaging.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\DataGlide\\markdown2\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\System.IO.Packaging.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\DataGlide\\markdown2\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\System.IO.Packaging.dll"
     },
     {
       "Identity": "C:\\DataGlide\\markdown2\\Client\\obj\\Debug\\net7.0\\build-gz\\SaS0jZtj.gz",
