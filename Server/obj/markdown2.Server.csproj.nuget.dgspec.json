@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\DataGlide\\markdown2\\Server\\markdown2.Server.csproj": {}
+    "C:\\DataGlide\\markdownConverter\\Server\\markdown2.Server.csproj": {}
   },
   "projects": {
-    "C:\\DataGlide\\markdown2\\Client\\markdown2.Client.csproj": {
+    "C:\\DataGlide\\markdownConverter\\Client\\markdown2.Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\DataGlide\\markdown2\\Client\\markdown2.Client.csproj",
+        "projectUniqueName": "C:\\DataGlide\\markdownConverter\\Client\\markdown2.Client.csproj",
         "projectName": "markdown2.Client",
-        "projectPath": "C:\\DataGlide\\markdown2\\Client\\markdown2.Client.csproj",
-        "packagesPath": "C:\\Users\\jfagh\\.nuget\\packages\\",
-        "outputPath": "C:\\DataGlide\\markdown2\\Client\\obj\\",
+        "projectPath": "C:\\DataGlide\\markdownConverter\\Client\\markdown2.Client.csproj",
+        "packagesPath": "C:\\Users\\jackd\\.nuget\\packages\\",
+        "outputPath": "C:\\DataGlide\\markdownConverter\\Client\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\jfagh\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\jackd\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {},
           "https://pkgs.dev.azure.com/Dataglide/_packaging/Dataglide/nuget/v3/index.json": {}
         },
@@ -29,8 +27,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\DataGlide\\markdown2\\Shared\\markdown2.Shared.csproj": {
-                "projectPath": "C:\\DataGlide\\markdown2\\Shared\\markdown2.Shared.csproj"
+              "C:\\DataGlide\\markdownConverter\\Shared\\markdown2.Shared.csproj": {
+                "projectPath": "C:\\DataGlide\\markdownConverter\\Shared\\markdown2.Shared.csproj"
               }
             }
           }
@@ -97,7 +95,7 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.NETCore.App.Runtime.Mono.browser-wasm",
-              "version": "[7.0.4, 7.0.4]"
+              "version": "[7.0.2, 7.0.2]"
             }
           ],
           "frameworkReferences": {
@@ -105,7 +103,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       },
       "runtimes": {
@@ -114,24 +112,22 @@
         }
       }
     },
-    "C:\\DataGlide\\markdown2\\Server\\markdown2.Server.csproj": {
+    "C:\\DataGlide\\markdownConverter\\Server\\markdown2.Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\DataGlide\\markdown2\\Server\\markdown2.Server.csproj",
+        "projectUniqueName": "C:\\DataGlide\\markdownConverter\\Server\\markdown2.Server.csproj",
         "projectName": "markdown2.Server",
-        "projectPath": "C:\\DataGlide\\markdown2\\Server\\markdown2.Server.csproj",
-        "packagesPath": "C:\\Users\\jfagh\\.nuget\\packages\\",
-        "outputPath": "C:\\DataGlide\\markdown2\\Server\\obj\\",
+        "projectPath": "C:\\DataGlide\\markdownConverter\\Server\\markdown2.Server.csproj",
+        "packagesPath": "C:\\Users\\jackd\\.nuget\\packages\\",
+        "outputPath": "C:\\DataGlide\\markdownConverter\\Server\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\jfagh\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\jackd\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {},
           "https://pkgs.dev.azure.com/Dataglide/_packaging/Dataglide/nuget/v3/index.json": {}
         },
@@ -139,11 +135,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\DataGlide\\markdown2\\Client\\markdown2.Client.csproj": {
-                "projectPath": "C:\\DataGlide\\markdown2\\Client\\markdown2.Client.csproj"
+              "C:\\DataGlide\\markdownConverter\\Client\\markdown2.Client.csproj": {
+                "projectPath": "C:\\DataGlide\\markdownConverter\\Client\\markdown2.Client.csproj"
               },
-              "C:\\DataGlide\\markdown2\\Shared\\markdown2.Shared.csproj": {
-                "projectPath": "C:\\DataGlide\\markdown2\\Shared\\markdown2.Shared.csproj"
+              "C:\\DataGlide\\markdownConverter\\Shared\\markdown2.Shared.csproj": {
+                "projectPath": "C:\\DataGlide\\markdownConverter\\Shared\\markdown2.Shared.csproj"
               }
             }
           }
@@ -210,28 +206,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\DataGlide\\markdown2\\Shared\\markdown2.Shared.csproj": {
+    "C:\\DataGlide\\markdownConverter\\Shared\\markdown2.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\DataGlide\\markdown2\\Shared\\markdown2.Shared.csproj",
+        "projectUniqueName": "C:\\DataGlide\\markdownConverter\\Shared\\markdown2.Shared.csproj",
         "projectName": "markdown2.Shared",
-        "projectPath": "C:\\DataGlide\\markdown2\\Shared\\markdown2.Shared.csproj",
-        "packagesPath": "C:\\Users\\jfagh\\.nuget\\packages\\",
-        "outputPath": "C:\\DataGlide\\markdown2\\Shared\\obj\\",
+        "projectPath": "C:\\DataGlide\\markdownConverter\\Shared\\markdown2.Shared.csproj",
+        "packagesPath": "C:\\Users\\jackd\\.nuget\\packages\\",
+        "outputPath": "C:\\DataGlide\\markdownConverter\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\jfagh\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\jackd\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {},
           "https://pkgs.dev.azure.com/Dataglide/_packaging/Dataglide/nuget/v3/index.json": {}
         },
@@ -296,7 +290,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }

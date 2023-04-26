@@ -4627,26 +4627,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\jfagh\\.nuget\\packages\\": {}
+    "C:\\Users\\jackd\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\DataGlide\\markdown2\\Shared\\markdown2.Shared.csproj",
+      "projectUniqueName": "C:\\DataGlide\\markdownConverter\\Shared\\markdown2.Shared.csproj",
       "projectName": "markdown2.Shared",
-      "projectPath": "C:\\DataGlide\\markdown2\\Shared\\markdown2.Shared.csproj",
-      "packagesPath": "C:\\Users\\jfagh\\.nuget\\packages\\",
-      "outputPath": "C:\\DataGlide\\markdown2\\Shared\\obj\\",
+      "projectPath": "C:\\DataGlide\\markdownConverter\\Shared\\markdown2.Shared.csproj",
+      "packagesPath": "C:\\Users\\jackd\\.nuget\\packages\\",
+      "outputPath": "C:\\DataGlide\\markdownConverter\\Shared\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\jfagh\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\jackd\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {},
         "https://pkgs.dev.azure.com/Dataglide/_packaging/Dataglide/nuget/v3/index.json": {}
       },
@@ -4711,11 +4709,25 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   },
   "logs": [
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Unable to load the service index for source https://pkgs.dev.azure.com/Dataglide/_packaging/Dataglide/nuget/v3/index.json.",
+      "libraryId": "DocumentFormat.OpenXml"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Unable to load the service index for source https://pkgs.dev.azure.com/Dataglide/_packaging/Dataglide/nuget/v3/index.json.",
+      "libraryId": "DocumentFormat.OpenXml"
+    },
     {
       "code": "NU1701",
       "level": "Warning",

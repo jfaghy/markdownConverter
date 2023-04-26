@@ -6,29 +6,25 @@
 
 <PageTitle>Template</PageTitle>
 
-<h1>Markdown Editor</h1>
+<h1>Word Modifier</h1>
 
 <div style="display: flex; flex-direction: row;">
     <div style="margin-right: 20px; width: 50%;">
-        <label for="columnOneInput">Column1:</label>
-        <textarea id="columnOneInput" @bind="@Column1Text" style="width: 100%; min-height: 400px; resize: vertical;" rows="10"></textarea>
-    </div>
-    <div style="margin-right: 20px; width: 50%;">
-        <label for="columnTwoInput">Column2:</label>
-        <textarea id="columnTwoInput" @bind="@Column2Text" style="width: 100%; min-height: 400px; resize: vertical;" rows="10"></textarea>
+        <label for="columnOneInput">Input:</label>
+        <textarea id="columnOneInput" @bind="@Input2" style="width: 100%; min-height: 400px; resize: vertical;" rows="10"></textarea>
     </div>
 </div>
 
 <button class="btn btn-primary" @onclick="SendWordDoc">Download WordDoc</button>
 
 
-
+  
 @code {
-    private string? Column1Text = "";
-    private string? Column2Text = "";
+    private string? Input1 = "";
+    private string? Input2 = "";
 
     private async Task SendWordDoc()
     {
-        await JsRuntime.InvokeVoidAsync("triggerFilePutDownload", Http.BaseAddress + "word", null, new { Column1 = Column1Text, Column2 = Column2Text });
+        await JsRuntime.InvokeVoidAsync("triggerFilePutDownload", Http.BaseAddress + "word", null, new { Column1 = Input1, Column2 = Input2 });
     }
 }
